@@ -1,0 +1,32 @@
+# Virtual environment
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables (contains API keys)
+.env
+
+# Embedding cache (large, regenerated on demand)
+embeddings_cache.pkl
+
+# Streamlit secrets (if any)
+.streamlit/secrets.toml
+
+# PDF outputs (optional – keep if you want to track examples)
+*.pdf
+!requirements.pdf  # if you have a requirements doc
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# IDE folders
+.vscode/
+.idea/
+*.swp

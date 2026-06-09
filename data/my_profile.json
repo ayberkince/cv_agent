@@ -1,0 +1,92 @@
+{
+    "personal_info": {
+        "name": "Ayberk Ince",
+        "location": "Potsdam, Germany",
+        "phone": "+49 163 137 91 41",
+        "email": "ayberkince16@gmail.com",
+        "links": {
+            "linkedin": "https://www.linkedin.com/in/ayberk-ince-ayberk/",
+            "github": "https://github.com/ayberkince"
+        }
+    },
+    "education": [
+        {
+            "degree": "M.Sc. Mathematics",
+            "institution": "University of Potsdam, Germany",
+            "start_date": "04.2021",
+            "end_date": "02.2026",
+            "magnitude_metrics": {
+                "simulations": "10,000+ stochastic iterations",
+                "analytical_framework": "Fourier-analytic estimates & martingale methods"
+            },
+            "details": [
+                "Specialization: Mathematical Modeling & Data Analytics; Structures in Mathematics Inspired by Physics.",
+                "Master's Thesis: Formulated explicit frequency cutoff upper bounds for nodal domains on flat square tori using Fourier-analytic estimates, proving geometric localization limits.",
+                "Graduate Research: Evaluated Pólya and Friedman urn dynamics via martingale methods; built custom statistical algorithms executing 10k+ stochastic simulation loops to validate almost sure convergence."
+            ]
+        },
+        {
+            "degree": "B.Sc. Mathematics",
+            "institution": "Dokuz Eylul University, Izmir, Turkey",
+            "start_date": "09.2016",
+            "end_date": "07.2020",
+            "magnitude_metrics": {
+                "ranking": "Ranked #1 out of graduating department cohort"
+            },
+            "details": [
+                "Graduated with Highest Cumulative GPA in the Department; awarded High Honor Degree status."
+            ]
+        }
+    ],
+    "experience": [
+        {
+            "role": "Process Assistant",
+            "company": "Amazon Fulfillment Center",
+            "location": "Werder (Havel), Germany",
+            "start_date": "09.2023",
+            "end_date": "09.2024",
+            "magnitude_metrics": {
+                "team_size": "50+ logistics associates",
+                "kpis_tracked": "5+ real-time operational metrics",
+                "shift_length": "10-hour processing windows"
+            },
+            "details": [
+                "Directed real-time floor workflows for a cross-functional cohort of 50+ logistics associates, consistently optimizing staffing layout to hit tight shift volume capacity targets.",
+                "Monitored live production data streams tracking 5+ critical operational metrics (hourly unit velocity, active headcounts, processing bottlenecks) to dynamically execute labor re-allocations.",
+                "Synthesized rolling performance metrics to author structured monthly process-improvement summaries, identifying root causes of system congestion."
+            ]
+        },
+        {
+            "role": "Facilities Maintenance Assistant",
+            "company": "GRG Berlin",
+            "location": "Potsdam, Germany",
+            "start_date": "10.2024",
+            "end_date": "Present",
+            "magnitude_metrics": {
+                "compliance_rate": "100% SOP adherence"
+            },
+            "details": [
+                "Enforced daily facility operational reliability, corporate safety measures, and standard operating procedure (SOP) compliance.",
+                "Logged structural exceptions and coordinated maintenance ticket processing timelines across cross-functional tasks."
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "Turkish",
+            "level": "Native"
+        },
+        {
+            "language": "English",
+            "level": "C1 (Fluent)"
+        },
+        {
+            "language": "German",
+            "level": "A2 (Basic)"
+        }
+    ],
+    "certifications": [
+        "Business Intelligence (BI) Essentials, IBM, Coursera",
+        "Python and Statistics for Financial Analysis, HKUST, Coursera"
+    ]
+}

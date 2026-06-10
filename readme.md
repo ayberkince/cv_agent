@@ -3,7 +3,7 @@
 [![Python Version](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
 [![Streamlit App](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white)](https://streamlit.io/)
 [![Powered by Gemini](https://img.shields.io/badge/Powered%20by-Gemini%202.5%20Flash-orange.svg)](https://deepmind.google/technologies/gemini/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
 
 **Nexus CV Tailor** is an advanced, multi-agent AI pipeline designed to instantly tailor resumes and generate professional cover letters matching any target job description. Powered by Gemini 2.5 Flash, it features a dual-manager adversarial loop, automated verification auditing, semantic project retrieval (RAG), and a humanizer to produce recruiter-approved, ATS-friendly documents that sound genuinely human.
 
